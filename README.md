@@ -1,3 +1,7 @@
+# Archived, moved into https://github.com/ekala-project/corepkgs
+
+This was archived because packaging requirements around stdenv is a little too great to have in a separate, critical repo. In this regard, it was chosen to centralize packaging concerns for all "core" packages into a single repository.
+
 # Minimal stdenv
 
 This repo is meant to encapsulate all the logic around stdenv, spliced packages,
